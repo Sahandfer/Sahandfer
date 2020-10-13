@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Sahand's github stats](https://github-readme-stats.vercel.app/api?username=Sahandfer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Code use](https://github-readme-stats.vercel.app/api/top-langs/username=Sahandfer&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Code use](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahandfer&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
