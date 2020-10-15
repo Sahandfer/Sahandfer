@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
-![Sahand's github stats](https://github-readme-stats.vercel.app/api?username=Sahandfer&bg_color=30,FF7170,000814&title_color=fff&text_color=B5C0D2)
-![Code use](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahandfer&layout=compact&bg_color=0,000814,A563D6&title_color=fff&text_color=B5C0D2)
+![Sahand's github stats](https://github-readme-stats.vercel.app/api?username=Sahandfer&bg_color=0,FF7170,000814&title_color=fff&text_color=B5C0D2)
+![Code use](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahandfer&layout=compact&bg_color=0,000814,CA5992&title_color=fff&text_color=B5C0D2)
 
