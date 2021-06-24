@@ -1,6 +1,6 @@
 ### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 <a>
-  <img src="https://og-blog-css.outgrow.co/blog/wp-content/uploads/2019/01/robo_small.gif" align="right" width="20%"/>
+  <img src="https://media.giphy.com/media/3Xux76Bqzw1eGaJnjn/giphy.gif" align="right" width="20%"/>
 </a>
 
 
