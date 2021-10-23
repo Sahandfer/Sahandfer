@@ -4,9 +4,12 @@
 </a>
 
 
-- 🔭 I’m currently working on implementing empathy in dialogue systems
+- 🔭 I’m currently working on a lot: 
+  - Empathetic Dialog Systems
+  - Dialog Systems for Mental Health/Emotional Support
+  - and a tiny bit of Persona-based Dialog Systems 
 - 🌱 I’m currently learning a lot!
-- 👯 I’m looking to collaborate on persona-based dialogue systems
+- 👯 I’m looking to collaborate on anything interesting and useful
 - 💬 Ask me about anything you want (nothing too weird though)
 - 📫 How to reach me: Sahandfer@gmail.com
 - ⚡ Fun fact: there was supposed to be a fun fact here...
