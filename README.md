@@ -1,7 +1,4 @@
-### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
-<a>
-  <img src="https://media.giphy.com/media/1zjRpYKa6LHuedJzyc/giphy.gif" align="right" width="20%"/>
-</a>
+### Hey there!
 
 - 🌱 I’m currently learning a lot! 
 - 🔭 I’m currently working on empathetic dialog systems
