@@ -1,4 +1,7 @@
 ### Hey there!
+<a>
+  <img src="https://media.giphy.com/media/1zjRpYKa6LHuedJzyc/giphy.gif" align="right" width="20%"/>
+</a>
 
 - 🌱 I’m currently learning a lot! 
 - 🔭 I’m currently working on empathetic dialog systems
